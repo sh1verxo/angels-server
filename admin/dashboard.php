@@ -12,4 +12,5 @@ if (!isset($_SESSION['auth'])) {
   <li><a href="edit.php">Edit Site Content</a></li>
   <li><a href="sql.php">SQL Viewer</a></li>
   <li><a href="../logout.php">Logout</a></li>
+  <li><a href="files.php">File Manager</a></li>
 </ul>
